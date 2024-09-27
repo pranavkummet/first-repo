@@ -1,3 +1,3 @@
 # first-repo
-Hello There!
+Hey There!
 It is my first Repo
